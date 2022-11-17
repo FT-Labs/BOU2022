@@ -1,0 +1,4 @@
+1 - Suslu parantezlerin icinde olusturdunugz degiskenler suslu parantez bitince yok olur.
+2 - 1'den fazla degisken tutan variable'lar daha farkli sekilde saklanirlar.
+3 - If'leri her zaman suslu parantez icine alin.
+4 - Degisken isimlerinde asla turkce karakter kullanmayin.
